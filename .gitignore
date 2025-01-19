@@ -1,0 +1,5 @@
+.idea/
+*.tmp
+.vs/
+.git/
+~$Documentation.xlsx

@@ -1,0 +1,8 @@
+.git
+.gitignore
+Server
+Resources
+.vs
+.idea
+readme.md
+*.tmp
