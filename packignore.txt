@@ -6,3 +6,4 @@ Resources
 .idea
 readme.md
 *.tmp
+Event Mods
