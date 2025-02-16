@@ -55,9 +55,6 @@
 2130103 = {
 	name = Jr. Necki
 }
-2220000 = {
-	name = Mano 
-}
 2220100 = {
 	name = Blue Mushroom
 }
@@ -91,17 +88,17 @@
 2230109 = {
 	name = Bubble Fish
 }
-2230110 = {
-	name = Wooden Mask
-}
-2230111 = {
-	name = Rocky Mask
-}
 2230200 = {
 	name = Flower Fish
 }
 2300100 = {
 	name = Steezy
+}
+2230110 = {
+	name = Wooden Mask
+}
+2230111 = {
+	name = Rocky Mask
 }
 3000000 = {
 	name = Stoneball
@@ -160,20 +157,11 @@
 3210207 = {
 	name = Ticky
 }
-3210208 = {
-	name = Retz
-}
 3210450 = {
 	name = Scuba Pepe
 }
 3210800 = {
 	name = Lupin
-}
-3220000 = {
-	name = Stumpy
-}
-3220001 = {
-	name = Deo
 }
 3230100 = {
 	name = Curse Eye
@@ -249,12 +237,6 @@
 }
 4130104 = {
 	name = Dark Nependeath
-}
-4220000 = {
-	name = Seruf
-}
-4220001 = {
-	name = Seruf
 }
 4230100 = {
 	name = Cold Eye
@@ -370,9 +352,6 @@
 5130100 = {
 	name = Drake
 }
-5120500 = {
-	name = Grizzly
-}
 5130101 = {
 	name = Stone Gollem
 }
@@ -412,18 +391,6 @@
 5200002 = {
 	name = Fire Stoneball
 }
-5220000 = {
-	name = King Clang
-}
-5220001 = {
-	name = King Clang
-}
-5220002 = {
-	name = Faust
-}
-5220003 = {
-	name = Timer
-}
 5300000 = {
 	name = Leatty
 }
@@ -454,12 +421,6 @@
 6130200 = {
 	name = Buffy
 }
-6220000 = {
-	name = Dyle
-}
-6220001 = {
-	name = Zeno
-}
 6230100 = {
 	name = Wild Cargo
 }
@@ -478,9 +439,6 @@
 6230400 = {
 	name = Soul Teddy
 }
-6230401 = {
-	name = Jr. Louinel
-}
 6230500 = {
 	name = Master Soul Teddy
 }
@@ -489,9 +447,6 @@
 }
 6230601 = {
 	name = Dark Drake
-}
-6230602 = {
-	name = Officer Skeleton
 }
 6300000 = {
 	name = Yeti
@@ -547,9 +502,6 @@
 7130102 = {
 	name = Yeti and Pepe
 }
-7130103 = {
-	name = Commander Skeleton
-}
 7130200 = {
 	name = Werewolf
 }
@@ -561,15 +513,6 @@
 }
 7160000 = {
 	name = Dual Ghost Pirate
-}
-7220000 = {
-	name = Tae Roon
-}
-7220001 = {
-	name = Old Fox
-}
-7220002 = {
-	name = King Sage Cat
 }
 8130100 = {
 	name = Jr. Balrog
@@ -590,7 +533,7 @@
 	name = Firedawg
 }
 8140555 = {
-	name = Bombing Fish House
+	name = Bombing Fish House 
 }
 8140600 = {
 	name = Bone Fish
@@ -627,12 +570,6 @@
 }
 8170000 = {
 	name = Thanatos
-}
-8220000 = {
-	name = Elliza
-}
-8220001 = {
-	name = Snowman
 }
 8500000 = {
 	name = Time Sphere
@@ -906,282 +843,6 @@
 }
 9200049 = {
 	name = Coketump Lite (PC)
-}
-9202000 = {
-	name = Snail (PC)
-}
-9202001 = {
-	name = Blue Snail (PC)
-}
-9202002 = {
-	name = Red Snail (PC)
-}
-9202003 = {
-	name = Pig (PC)
-}
-9202004 = {
-	name = Orange Mushroom (PC)
-}
-9202005 = {
-	name = Mano  (PC)
-}
-9202006 = {
-	name = Bubbling (PC)
-}
-9202007 = {
-	name = Horned Mushroom (PC)
-}
-9202008 = {
-	name = Zombie Mushroom (PC)
-}
-9202009 = {
-	name = Stumpy (PC)
-}
-9202010 = {
-	name = Wild Boar (PC)
-}
-9202011 = {
-	name = Fire Boar (PC)
-}
-9202012 = {
-	name = King Slime (PC)
-}
-9202013 = {
-	name = Lupin (PC)
-}
-9202014 = {
-	name = Lorang (PC)
-}
-9202015 = {
-	name = Iron Hog (PC)
-}
-9202016 = {
-	name = Fierry A (PC)
-}
-9202017 = {
-	name = Fierry B (PC)
-}
-9202018 = {
-	name = Faust (PC)
-}
-9202019 = {
-	name = Jr. Wraith (PC)
-}
-9202020 = {
-	name = Wraith (PC)
-}
-9202021 = {
-	name = King Clang (PC)
-}
-9202022 = {
-	name = King Clang (PC)
-}
-9202023 = {
-	name = Stone Gollem (PC)
-}
-9202024 = {
-	name = Dark Stone Gollem (PC)
-}
-9202025 = {
-	name = Mix Gollem (PC)
-}
-9202026 = {
-	name = Mushmom (PC)
-}
-9202027 = {
-	name = Zombie Mushmom (PC)
-}
-9202028 = {
-	name = Cold Eye (PC)
-}
-9202029 = {
-	name = Wild Cargo (PC)
-}
-9202030 = {
-	name = Dyle (PC)
-}
-9202031 = {
-	name = Officer Skeleton (PC)
-}
-9202032 = {
-	name = Commander Skeleton (PC)
-}
-9202033 = {
-	name = Tauromacis (PC)
-}
-9202034 = {
-	name = Taurospear (PC)
-}
-9202035 = {
-	name = Jr. Balrog (PC)
-}
-9202036 = {
-	name = Star Pixie (PC)
-}
-9202037 = {
-	name = Nependeath (PC)
-}
-9202038 = {
-	name = Deo (PC)
-}
-9202039 = {
-	name = Freezer (PC)
-}
-9202040 = {
-	name = Sparker (PC)
-}
-9202041 = {
-	name = Seruf (PC)
-}
-9202042 = {
-	name = Seruf (PC)
-}
-9202043 = {
-	name = Chronos (PC)
-}
-9202044 = {
-	name = Platoon Chronos (PC)
-}
-9202045 = {
-	name = Master Chronos (PC)
-}
-9202046 = {
-	name = Timer (PC)
-}
-9202047 = {
-	name = Ultra Gray (PC)
-}
-9202048 = {
-	name = Chief Gray (PC)
-}
-9202049 = {
-	name = Alishar (PC)
-}
-9202050 = {
-	name = Jr. Yeti (PC)
-}
-9202051 = {
-	name = Hector (PC)
-}
-9202052 = {
-	name = Zeno (PC)
-}
-9202053 = {
-	name = Buffy (PC)
-}
-9202054 = {
-	name = Lazy Buffy (PC)
-}
-9202055 = {
-	name = Old Fox (PC)
-}
-9202056 = {
-	name = Yeti (PC)
-}
-9202057 = {
-	name = Separated Pepe (PC)
-}
-9202058 = {
-	name = Tae Roon (PC)
-}
-9202059 = {
-	name = Jr. Bulldog (PC)
-}
-9202060 = {
-	name = Bulldog (PC)
-}
-9202061 = {
-	name = King Sage Cat (PC)
-}
-9202062 = {
-	name = Louinel (PC)
-}
-9202063 = {
-	name = Papa Pixie (PC)
-}
-9202064 = {
-	name = Lycanthrope (PC)
-}
-9202065 = {
-	name = Elliza (PC)
-}
-9202066 = {
-	name = Bombing Fish House (PC)
-}
-9202067 = {
-	name = Goby (PC)
-}
-9202068 = {
-	name = Bone Fish (PC)
-}
-9202069 = {
-	name = Snowman (PC)
-}
-9202070 = {
-	name = Ghost Pirate (PC)
-}
-9202071 = {
-	name = Death Teddy (PC)
-}
-9202072 = {
-	name = Crimson Balrog (PC)
-}
-9202073 = {
-	name = Snail (PC)
-}
-9202074 = {
-	name = Blue Snail (PC)
-}
-9202075 = {
-	name = Red Snail (PC)
-}
-9202076 = {
-	name = Slime (PC)
-}
-9202077 = {
-	name = Zombie Lupin (PC)
-}
-9202078 = {
-	name = Lorang (PC)
-}
-9202079 = {
-	name = Clang (PC)
-}
-9202080 = {
-	name = Barnard Gray (PC)
-}
-9202081 = {
-	name = Chronos (PC)
-}
-9202082 = {
-	name = Platoon Chronos (PC)
-}
-9202083 = {
-	name = Master Chronos (PC)
-}
-9202084 = {
-	name = Grizzly (PC)
-}
-9202085 = {
-	name = Star Pixie (PC)
-}
-9202086 = {
-	name = Luster Pixie (PC)
-}
-9202087 = {
-	name = Lunar Pixie (PC)
-}
-9202088 = {
-	name = Ghost Pixie (PC)
-}
-9202089 = {
-	name = Werewolf (PC)
-}
-9202090 = {
-	name = Jr. Louinel (PC)
-}
-9202091 = {
-	name = Jr. Yeti (PC)
 }
 9300000 = {
 	name = Jr. Necki

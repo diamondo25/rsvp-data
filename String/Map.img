@@ -3235,14 +3235,6 @@ etc = {
 		streetName = Premium Road
 		mapName = Challenge Exit <Expert>
 	}
-	904000000 = {
-		streetName = Premium Road
-		mapName = Leaving Premium Road <Kerning City>
-	}
-	904010000 = {
-		streetName = Premium Road
-		mapName = Leaving Premium Road <Ludibrium>
-	}
 	920010000 = {
 		streetName = Hidden Street
 		mapName = Tower of Goddess <Entrance>
@@ -3301,7 +3293,7 @@ etc = {
 	}
 	920010910 = {
 		streetName = Hidden Street
-		mapName = Tower of Goddess <Jail`>
+		mapName = Tower of Goddess <Jail?>
 	}
 	920010911 = {
 		streetName = Hidden Street
@@ -3313,7 +3305,7 @@ etc = {
 	}
 	920010920 = {
 		streetName = Hidden Street
-		mapName = Tower of Goddess <Jaila>
+		mapName = Tower of Goddess <Jail?>
 	}
 	920010921 = {
 		streetName = Hidden Street
@@ -3325,7 +3317,7 @@ etc = {
 	}
 	920010930 = {
 		streetName = Hidden Street
-		mapName = Tower of Goddess <Jailb>
+		mapName = Tower of Goddess <Jail?>
 	}
 	920010931 = {
 		streetName = Hidden Street

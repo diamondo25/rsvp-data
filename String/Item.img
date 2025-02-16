@@ -2013,7 +2013,7 @@ Con = {
 	}
 	2120006 = {
 		name = Clover
-		desc = A freshly-plucked clover. Only edible for the pet Bunny, Dasher, Rudolph and Black Pig.\nRecovers entire Fullness. \nIncrease 10 Closeness.
+		desc = A freshly-plucked clover. Only edible for the pet Bunny and Black Pig.\nRecovers entire Fullness. \nIncrease 10 Closeness.
 	}
 	2120007 = {
 		name = Red Meat
@@ -24830,10 +24830,6 @@ Eqp = {
 		1702576 = {
 			name = Ground Pounder
 			desc = A mallet weapon that can be equipped over all weapons. Pound it down!
-		}
-		1702100 = {
-			name = Christmas Bell
-			desc = A Christmas bell that masks over any equipped weapon.
 		}
 	}
 }

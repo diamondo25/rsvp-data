@@ -676,12 +676,12 @@
 	name = Computer 2
 }
 1052019 = {
-	name = Computer 3
+	name = Billy
+	n0 = So you cleared the challenge? That's awesome...
+	n1 = Talk to me when you're ready to finish the challenge.
 }
 1052020 = {
-	name = Billy
-	n0 = Talk to me when you're ready to go back...
-	n1 = Ready to go back to the Internet Cafe?
+	name = Computer 2
 }
 1052100 = {
 	name = Don Giovanni
@@ -1529,11 +1529,6 @@
 	a1 = Check out this place; this place is cool
 	s3 = I made this myself, so there just aren't many left. You should buy them now before it gets too late.
 }
-2040052 = {
-	name = Wiz the Librarian
-	n0 = This library isn't full of old, boring books. We also have historical documents and records...
-	n1 = I'd love to find the lost books ASAP.
-}
 2040053 = {
 	name = Franky
 	n0 = You've never been to a place like this before!
@@ -2049,23 +2044,6 @@
 	name = Simon
 	n0 = Would you like to transport to the "Hanukkah map"?
 	n1 = Hanukkah is really a fascinating holiday, you know?
-}
-9220004 = {
-	name = Happy
-	func = Snow Fairy
-	n0 = Give me the snow powder if you have any.
-	n1 = We all wish for White Christmas, don't we?
-}
-9220005 = {
-	name = Roodolph
-	func = Reindeer
-	n0 = Do you want to head to where the snow sprinkler is?
-	n1 = Hi. When you are talking, please don't look at my shining nose...
-}
-9220006 = {
-	name = Bill
-	n0 = Merry Christmas!!
-	n1 = What would you like to get for your Christmas present?
 }
 9300010 = {
 	name = Mr. Moneybags
